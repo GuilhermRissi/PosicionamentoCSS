@@ -50,3 +50,7 @@
     left: 20%;
     top: 15%;
 }
+
+.h1{
+    position: static;
+}
